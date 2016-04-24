@@ -1,0 +1,1 @@
+It displays "周四" and "周五","周六",not displays "Thu" and "Fri","Sat".Because of the R version was installed by Chinese simpled,I hope you could forgive me.Good luck to you!
