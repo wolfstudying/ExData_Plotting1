@@ -1,1 +1,3 @@
-It displays "周四" and "周五","周六",not displays "Thu" and "Fri","Sat".Because of the R version was installed by Chinese simpled,I hope you could forgive me.Good luck to you!
+It displays "鍛ㄥ洓" and "鍛ㄤ簲","鍛ㄥ叚",not displays "Thu" and "Fri","Sat".
+Because of the R version was installed by Chinese simpled,I hope you could forgive me.
+Good luck to you!
